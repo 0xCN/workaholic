@@ -1,0 +1,20 @@
+{
+  "host": "localhost",
+  "port": 3333,
+  "blocked_domains": [
+    "facebook.com",
+    "youtube.com"
+  ],
+  "breaks": {
+    "work": {"minutes": 9999999, "limit": 9999},
+    "bathroom": {"minutes": 10, "limit": 5},
+    "eating": {"minutes": 20, "limit": 3},
+    "chores": {"minutes": 20, "limit": 2},
+    "sleep": {"minutes": 420, "limit": 1},
+    "studying": {"minutes": 120, "limit": 1},
+    "break": {"minutes": 0.5, "limit": 4}
+  },
+  "version": 1.0,
+  "process": "VSCodium.exe",
+  "idle_limit": 300
+}
