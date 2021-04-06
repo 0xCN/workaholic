@@ -1,0 +1,5 @@
+Flask == 1.1.2
+colorama == 0.4.3
+gevent == 21.1.2
+httpagentparser == 1.9.1
+playsound == 1.2.2
