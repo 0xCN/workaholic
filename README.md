@@ -40,7 +40,7 @@ the config file is in `chrome-extension/config.json`
 }
 ```
 
-## Adding Chrome Extension <img src="chrome-extension/img/co128.png" style="width: 30px; height: 30px">
+## Adding Chrome Extension
 you need to add the chrome-extension to your browser for the website blocking to work
 1. go to - [chrome://extensions/](chrome://extensions/)
 2. enable developer mode
